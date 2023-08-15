@@ -172,3 +172,30 @@
     color: #555c66;
 
 }
+.headi{
+    text-align: center;
+    margin-top: 12px;
+    font-weight: bold;
+    letter-spacing:.1rem;
+    font-family: lato, sans-serif;
+    font-size: 18px;
+    height: 20px;
+    display:block;
+}
+.cardtext{
+    text-align: center;
+    font-style: italic;
+    margin-top: 18px;
+    font-family: lato, sans-serif;
+    font-size: 17px;
+    padding: 30px;
+}
+.cardbtn{
+    text-decoration: underline;
+    cursor: pointer;
+    transition: all ease 7s ;
+    text-align: center;
+    margin-top: 20px;
+    font-family: lato, sans-serif;
+    /* font-weight: bold; */
+}
